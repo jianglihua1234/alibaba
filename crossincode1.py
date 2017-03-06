@@ -14,4 +14,11 @@ while total ==True:
     else:
         print 'Bingo'
         num += 0
-        
+s = 0
+if s > 1:
+    cotinue
+    s = '请问老师是这样提交的吗？'
+    print s
+    s = 0
+    s += 0
+    
